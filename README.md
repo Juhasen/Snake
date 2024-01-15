@@ -15,3 +15,4 @@ Finally, to play a game run:
 ```c
 ./winsys
 ```
+**Have a nice time!**
